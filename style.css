@@ -388,6 +388,63 @@ header {
     color: white;
 }
 
+.alohida {
+    background-image: url(./Rectangle\ \(30\).png);
+    height: 800px;
+}
+
+.alohida_ul {
+    margin-left: 98px;
+    padding-top: 100px;
+}
+
+.alohida_li1 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+    margin: 20px 0px;
+}
+
+.alohida_li2 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+    margin: 20px 0px;
+}
+
+.imgage {
+    margin: 20px 0px;
+    
+}
+
+.images {
+    margin: 20px 0px;
+
+}
+
+.image {
+    margin: 20px 0px;
+
+}
+
+.alohida_li3 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+    margin: 20px 0px;
+}
+
+.alohida_li4 {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+    color: white;
+    margin: 20px 0px;
+}
+
 
 
 
